@@ -12,7 +12,7 @@
 - 📫 How to reach me navaneethnanda00@gmail.com
 - Know about my experiences [Resume](https://drive.google.com/file/d/199gdH-4W7EvXTnc5OhooaSHyelB2omZX/view?usp=sharing)
 
-## ❤️ Connect With Me
+##  Connect With Me
 [<img src='https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg' alt='gmail' height='30'>](mailto:navaneethnanda00@gmail.com)&nbsp;&nbsp;
 [<img src='https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg' alt='github' height='30'>](https://github.com/Navaneethnanda)&nbsp;&nbsp;
 [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/navaneethnanda/)&nbsp;&nbsp;
