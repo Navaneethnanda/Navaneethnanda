@@ -10,7 +10,7 @@
 - 👨 Pronouns: He/Him
 - ✨ [Portfolio](https://navaneethnanda.com/)
 - 📫 How to reach me navaneethnanda00@gmail.com
-- Know about my experiences [Resume](https://drive.google.com/file/d/199gdH-4W7EvXTnc5OhooaSHyelB2omZX/view?usp=sharing)
+- Know about my experiences [Resume](https://drive.google.com/file/d/1g7qwP4kMU8KtTr3jX1N-9IJccU9Mt0Lg/view)
 
 ##  Connect With Me
 [<img src='https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg' alt='gmail' height='30'>](mailto:navaneethnanda00@gmail.com)&nbsp;&nbsp;
